@@ -57,30 +57,30 @@ When calculating relative difference, use the formula
 
 |  Query  |  Your Results  |  My Results | Difference | Rel. Diff | 
 |---|---|---|---|---|
-| Total Rows  |   |   |   |   |
-| January 2012 Rows  |   |   |   |   |
-| October 2012 Rows  |   |   |   |   |
-| Month with Fewest  |   |   | Yes/No  | NA  |
-| Num Rows in Month with Fewest  |   |   |   |   |
-| Month with Most  |   |   | Yes/No  | NA  |
-| Num Rows in Month with Most  |   |   |   |   |
-| Null_TS  |   |   |   |   |
-| Null_DT  |   |   |   |   |
-| Null_Local  |   |   |   |   |
-| Null_CN  |   |   |   |   |
-| Num 5 on High Volume Cards  |   |   | Yes/No  | NA  |
-|  Num Rows for Number 5 |   |   |   |   |
-| Num Rows for 18736  |   |   |   |   |
-| Product with Most Rows  |   |   | Yes/No  | NA  |
-| Num Rows for that Product  |   |   |   |   |
-| Product with Fourth-Most Rows  |   |   | Yes/No  | NA  |
-| Num Rows for that Product  |   |   |   |   |
-| Num Single Record Products  |   |   |   |   |
-| Year with Highest Portion of Owner Rows  |   |   | Yes/No  | NA |
-| Fraction of Rows from Owners in that Year  |   |   |   |   |
-| Year with Lowest Portion of Owner Rows  |   |   | Yes/No  | NA |
-| Fraction of Rows from Owners in that Year  |   |   |   |   |
+| Total Rows  |85760139|   |   |   |
+| January 2012 Rows  |1070907|   |   |   |
+| October 2012 Rows  |1042287|   |   |   |
+| Month with Fewest  |Feb|   | Yes/No  | NA  |
+| Num Rows in Month with Fewest  |6556770|   |   |   |
+| Month with Most  |Dec|   | Yes/No  | NA  |
+| Num Rows in Month with Most  |7578372|   |   |   |
+| Null_TS  |7123792|   |   |   |
+| Null_DT  |0|   |   |   |
+| Null_Local  |234843|   |   |   |
+| Null_CN  |0|   |   |   |
+| Num 5 on High Volume Cards  |14987|   | Yes/No  | NA  |
+|  Num Rows for Number 5 |460630|   |   |   |
+| Num Rows for 18736  |12153|   |   |   |
+| Product with Most Rows  |banana organic|   | Yes/No  | NA  |
+| Num Rows for that Product  |908639|   |   |   |
+| Product with Fourth-Most Rows  |avocado hass organic|   | Yes/No  | NA  |
+| Num Rows for that Product  |456771|   |   |   |
+| Num Single Record Products  |2769|   |   |   |
+| Year with Highest Portion of Owner Rows  |2014|   | Yes/No  | NA |
+| Fraction of Rows from Owners in that Year  |0.7591|   |   |   |
+| Year with Lowest Portion of Owner Rows  |2011|   | Yes/No  | NA |
+| Fraction of Rows from Owners in that Year  |0.7372|   |   |   |
 
 ## Reflections
 
-<!-- I'd love to get 100-200 words on your experience doing the Wedge Project --> 
+<!-- I enjoyed working on the Wedge much more this year than last, mostly due to actually learning the python and SQL needed --> 

@@ -1,3 +1,13 @@
+Wedge_Task3_2021.db
+Wedge_Task3.db
+daily_hourly_transactions.txt
+monthly_trans_by_description.txt
+Owner_year_month_trans.txt
+sample_owner_trans.txt
+clean_full/*
+DATA/*
+wedge-project-fall2021-92691-f3182a53adb6.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
